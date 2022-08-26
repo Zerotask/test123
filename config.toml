@@ -1,4 +1,4 @@
-baseurl = "localhost"
+baseurl = "test123-wine.vercel.app"
 title = "My Blog"
 languageCode = "en-us"
 theme = "hello-friend-ng"
